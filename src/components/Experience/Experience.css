@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+
+
+.experience {
+    position: static;
+    color: #fff;
+    text-align: center;
+  
+
+    
+}
+
+.Experienc_img img{
+    position: sticky;
+    padding-top: 25px;
+}
+
+.experience_text{
+    padding-top: 25px;
+}
+
+.experience_text h1{
+    font-family:"Roboto", sans-serif ;
+}
+
+.experience_text h3 {
+    color: #f64c08;
+    padding-top: 20px;
+}
